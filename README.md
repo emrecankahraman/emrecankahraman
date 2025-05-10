@@ -25,9 +25,6 @@
        here
    </h3>
 
-   <h3 style="font-size: 20px;">💬 Ask me about 
-       <span>Analytical Thinking</span>
-   </h3>
 </div>
 
 
@@ -42,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
 <p> <a href="https://github.com/emrecankahraman"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,html,css,js,dotnet"> </a> </p>
-    <p> <a href="https://github.com/emrecankahraman"><img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,bootstrap,ps,react,mongodb,ts,"> </a> </p>
+    <p> <a href="https://github.com/emrecankahraman"><img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio"> </a> </p>
 </div>   
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
