@@ -20,6 +20,8 @@
    <h3 style="font-size: 20px;">💾 Exploring:
        <span> Delta Lake, SQL Optimization, and Modern Data Engineering Practices </span>
    </h3>
+    <h3 style="font-size: 20px;">  🎯 Actively working on Computer Vision and Machine Learning projects
+   </h3>
 
 </div>
 
